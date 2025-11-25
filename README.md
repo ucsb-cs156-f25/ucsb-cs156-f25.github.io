@@ -1,6 +1,6 @@
 # ucsb-cs156-f25.github.io
 
-This repo exists to support MSW via:
+The <https://github.com/ucsb-cs156-f25/ucsb-cs156-f25.github.io/> exists primarily to support MSW via:
 
 <https://ucsb-cs156-f25.github.io/mockServiceWorker.js>
 
